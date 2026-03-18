@@ -4,6 +4,7 @@
     <title>Google Gemini Overview</title>
     <topicref href="index.dita">
         <topicref href="gemini_concept.dita"/>
+        <topicref href="gemini_concept_strengths.dita"/>
         <topicref href="gemini_task.dita"/>
         <topicref href="gemini_reference.dita"/>
     </topicref>
